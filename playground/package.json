@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "",
   "private": true,
+  "token": "ghp_kjjdj12l8871782edd8d7781d1"
   "main": "app.js",
   "scripts": {
     "dev": "nodemon ./server/bin/start",
